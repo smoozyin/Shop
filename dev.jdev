@@ -1,0 +1,39 @@
+{
+
+	"admob_banner":"ca-app-pub-3940256099942544/6300978111",
+	"admob_inter":"ca-app-pub-3940256099942544/1033173712",
+
+	"APP_KEY": "13bc39059",
+	"BANNER_PLACEMENT": "DefaultBanner",
+	"INTERSTITIAL_PLACEMENT": "DefaultInterstitial",
+
+	"APPLOVIN_BANNER": "5b6381608163d1e5",
+	"APPLOVIN_INTERSTITIAL": "c0609221edb5e2b2",
+
+	"whichAds": 0,
+	
+	"popAppLink": "htp",
+	"popAppName": "Gap",
+	"popAppImage": "h2.png",
+	"popAppPackage": "cp",
+	"popAppIsActive": false,
+
+	"BUTTON_NAME_1": "Get Started",
+	"BUTTON_NAME_2": "button 2",
+	
+	"wv_state" : "1",
+	
+	"btn_wv_1": "Women's",
+	"btn_wv_2": "Men's",
+	"btn_wv_3": "Kids'",
+	"btn_wv_4": "View All",
+
+	"URL1" : "https://www.hespress.com/",
+	"URL2" : "https://google.com/",
+	"URL3" : "https://www.facebook.com/",
+	"URL4" : "https://instagram.com/",
+
+	"isAdsActivated1":true,
+	"isAdsActivated2":true
+
+}

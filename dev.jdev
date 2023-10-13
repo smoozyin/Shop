@@ -1,7 +1,7 @@
 {
 
-	"admob_banner":"ca-app-pub-3940256099942544/6300978111",
-	"admob_inter":"ca-app-pub-3940256099942544/1033173712",
+	"admob_banner":"",
+	"admob_inter":"",
 
 	"APP_KEY": "13bc39059",
 	"BANNER_PLACEMENT": "DefaultBanner",
@@ -25,13 +25,13 @@
 	
 	"btn_wv_1": "Women's",
 	"btn_wv_2": "Men's",
-	"btn_wv_3": "Kids'",
+	"btn_wv_3": "Kids",
 	"btn_wv_4": "View All",
 
-	"URL1" : "https://www.hespress.com/",
-	"URL2" : "https://google.com/",
-	"URL3" : "https://www.facebook.com/",
-	"URL4" : "https://instagram.com/",
+	"URL1" : "",
+	"URL2" : "",
+	"URL3" : "",
+	"URL4" : "",
 
 	"isAdsActivated1":true,
 	"isAdsActivated2":true

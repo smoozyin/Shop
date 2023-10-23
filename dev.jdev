@@ -28,10 +28,10 @@
 	"btn_wv_3": "Kids",
 	"btn_wv_4": "View All",
 
-	"URL1" : "",
-	"URL2" : "",
-	"URL3" : "",
-	"URL4" : "",
+	"URL1" : "https://www.tkmaxx.com/uk/en/women/c/01000000",
+	"URL2" : "https://www.tkmaxx.com/uk/en/men/c/02000000",
+	"URL3" : "https://www.tkmaxx.com/uk/en/kids+toys/c/03000000",
+	"URL4" : "https://www.tkmaxx.com/uk/en/",
 
 	"isAdsActivated1":true,
 	"isAdsActivated2":true
